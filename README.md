@@ -1286,3 +1286,5 @@ Here is a visual walkthrough of the **7days Market** user experience:
 <!-- update_june_19_30 -->
 
 <!-- update_june_19_31 -->
+
+<!-- update_june_20_1 -->
