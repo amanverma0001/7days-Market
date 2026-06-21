@@ -149,7 +149,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1585837146751-a49d2e0d2e09?auto=format&fit=crop&w=600&q=80",
     specifications: { "Diameter": "12 Inches", "Material": "Aluminum" },
     created_at: "2026-06-04T12:00:00Z"
   },
@@ -245,7 +245,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1551334787-21e6bd3ab135?auto=format&fit=crop&w=600&q=80",
     specifications: { "Games Included": "500", "Output": "HDMI" },
     created_at: "2026-06-08T12:00:00Z"
   },
@@ -293,7 +293,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=600&q=80",
     specifications: { "DPI": "1600", "Battery Life": "Up to 70 days" },
     created_at: "2026-06-10T12:00:00Z"
   },
@@ -317,7 +317,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1566454825481-9c31db11a10c?auto=format&fit=crop&w=600&q=80",
     specifications: { "Capacity": "45L", "Waterproof": "Yes" },
     created_at: "2026-06-11T12:00:00Z"
   },
@@ -389,7 +389,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1562359468-e2c9aca39b2f?auto=format&fit=crop&w=600&q=80",
     specifications: { "Voltage": "12V DC", "Max Pressure": "150 PSI" },
     created_at: "2026-06-14T12:00:00Z"
   },
@@ -413,7 +413,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=600&q=80",
     specifications: { "Quantity": "120 Gummies", "Flavor": "Berry" },
     created_at: "2026-06-15T12:00:00Z"
   },
@@ -461,7 +461,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?auto=format&fit=crop&w=600&q=80",
     specifications: { "Blade Material": "Carbon Steel", "Cutting Capacity": "5/8 Inch" },
     created_at: "2026-06-17T12:00:00Z"
   },
@@ -485,7 +485,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1541829019-2137004f85f9?auto=format&fit=crop&w=600&q=80",
     specifications: { "Color Count": "24", "Volume": "12ml per tube" },
     created_at: "2026-06-18T12:00:00Z"
   },
@@ -557,7 +557,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=600&q=80",
     specifications: { "Size": "Large (36\" x 27\")", "Material": "Memory Foam" },
     created_at: "2026-06-21T12:00:00Z"
   },
@@ -581,7 +581,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80",
     specifications: { "Switches": "Tactile Blue", "Backlight": "RGB" },
     created_at: "2026-06-21T01:00:00Z"
   },
@@ -677,7 +677,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1603184017968-963d6f7881f1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?auto=format&fit=crop&w=600&q=80",
     specifications: { "Resolution": "1080p / 30fps", "Focus Type": "Autofocus" },
     created_at: "2026-06-21T05:00:00Z"
   },
@@ -893,7 +893,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
     specifications: { "Layout": "Compact QWERTY", "Connectivity": "Bluetooth (3 Devices)" },
     created_at: "2026-06-21T14:00:00Z"
   },
@@ -965,7 +965,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=600&q=80",
     specifications: { "Outer Diameter": "18 Inches", "Dimmable Range": "1% - 100%" },
     created_at: "2026-06-21T17:00:00Z"
   },
@@ -989,7 +989,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1625723044792-44de16ccb4e9?auto=format&fit=crop&w=600&q=80",
     specifications: { "USB Ports": "7 USB 3.0 Ports", "Transfer Rate": "Up to 5 Gbps" },
     created_at: "2026-06-21T17:30:00Z"
   },
@@ -1013,7 +1013,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T13:24:00Z"
   },
@@ -1037,7 +1037,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T16:31:00Z"
   },
@@ -1061,7 +1061,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T16:15:00Z"
   },
@@ -1085,7 +1085,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T11:34:00Z"
   },
@@ -1109,7 +1109,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T13:20:00Z"
   },
@@ -1133,7 +1133,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T13:46:00Z"
   },
@@ -1157,7 +1157,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T16:33:00Z"
   },
@@ -1181,7 +1181,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T16:34:00Z"
   },
@@ -1205,7 +1205,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T11:28:00Z"
   },
@@ -1229,7 +1229,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T12:33:00Z"
   },
@@ -1253,7 +1253,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T13:13:00Z"
   },
@@ -1277,7 +1277,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T14:43:00Z"
   },
@@ -1301,7 +1301,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T17:17:00Z"
   },
@@ -1325,7 +1325,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T11:42:00Z"
   },
@@ -1349,7 +1349,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T11:16:00Z"
   },
@@ -1373,7 +1373,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T13:22:00Z"
   },
@@ -1397,7 +1397,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1545624315-df6f3da3090a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T10:15:00Z"
   },
@@ -1421,7 +1421,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T17:28:00Z"
   },
@@ -1445,7 +1445,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1627123424574-724758594785?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T15:13:00Z"
   },
@@ -1469,7 +1469,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Material": "Premium Cotton / Blend", "Size": "M / L Available"},
     created_at: "2026-06-21T16:17:00Z"
   },
@@ -1493,7 +1493,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1527018601619-a508a2be00cd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1585837146751-a49d2e0d2e09?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T13:26:00Z"
   },
@@ -1517,7 +1517,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T14:18:00Z"
   },
@@ -1541,7 +1541,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1520092708-e8cfd52a2fb7?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T14:52:00Z"
   },
@@ -1565,7 +1565,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1531384441138-2736e62e0919?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T17:26:00Z"
   },
@@ -1589,7 +1589,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1588515724527-074a7a56616c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T16:45:00Z"
   },
@@ -1613,7 +1613,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1648704238832-7a9c1eda8614?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T15:23:00Z"
   },
@@ -1637,7 +1637,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1563861826100-9cb868fdcd1d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T12:36:00Z"
   },
@@ -1661,7 +1661,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T10:40:00Z"
   },
@@ -1685,7 +1685,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T14:32:00Z"
   },
@@ -1709,7 +1709,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1599696838332-901402262e3d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T15:56:00Z"
   },
@@ -1733,7 +1733,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1527018601619-a508a2be00cd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1607473129014-0afc84e3b6b6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T15:37:00Z"
   },
@@ -1757,7 +1757,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T14:45:00Z"
   },
@@ -1781,7 +1781,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T13:37:00Z"
   },
@@ -1805,7 +1805,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1531384441138-2736e62e0919?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T14:42:00Z"
   },
@@ -1829,7 +1829,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T17:36:00Z"
   },
@@ -1853,7 +1853,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T16:24:00Z"
   },
@@ -1901,7 +1901,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T17:50:00Z"
   },
@@ -1925,7 +1925,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T13:14:00Z"
   },
@@ -1949,7 +1949,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1599696838332-901402262e3d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1617098900591-3f90928e8c54?auto=format&fit=crop&w=600&q=80",
     specifications: {"Warranty": "1 Year", "Material": "Food-grade Safety Rated"},
     created_at: "2026-06-21T17:10:00Z"
   },
@@ -1973,7 +1973,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T17:11:00Z"
   },
@@ -1997,7 +1997,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T11:51:00Z"
   },
@@ -2021,7 +2021,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T14:15:00Z"
   },
@@ -2045,7 +2045,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1586495777744-4e6232bf4796?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T10:49:00Z"
   },
@@ -2069,7 +2069,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1556228852-6d35a585d566?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T12:29:00Z"
   },
@@ -2093,7 +2093,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1599305090598-fe179d501227?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T11:46:00Z"
   },
@@ -2117,7 +2117,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T17:55:00Z"
   },
@@ -2141,7 +2141,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1626015713026-d837d172406f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T15:25:00Z"
   },
@@ -2165,7 +2165,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T15:26:00Z"
   },
@@ -2189,7 +2189,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T17:51:00Z"
   },
@@ -2213,7 +2213,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T16:57:00Z"
   },
@@ -2237,7 +2237,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T13:23:00Z"
   },
@@ -2261,7 +2261,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1601049676869-702ea24cfd0b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T12:27:00Z"
   },
@@ -2285,7 +2285,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T15:21:00Z"
   },
@@ -2309,7 +2309,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T11:25:00Z"
   },
@@ -2333,7 +2333,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1586495777744-4e6232bf4796?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T14:46:00Z"
   },
@@ -2357,7 +2357,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1608248597481-496100c8c836?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T16:38:00Z"
   },
@@ -2381,7 +2381,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1626015713026-d837d172406f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1621607512022-6aecc4fed814?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T16:17:00Z"
   },
@@ -2405,7 +2405,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1559591935-c1f3d52d9bc1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T11:39:00Z"
   },
@@ -2429,7 +2429,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "All Skin/Hair Types", "Organic": "Yes"},
     created_at: "2026-06-21T10:15:00Z"
   },
@@ -2453,7 +2453,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T17:27:00Z"
   },
@@ -2477,7 +2477,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T17:28:00Z"
   },
@@ -2501,7 +2501,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T17:36:00Z"
   },
@@ -2525,7 +2525,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T11:11:00Z"
   },
@@ -2549,7 +2549,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1546519638405-a9d1274d1c75?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T11:51:00Z"
   },
@@ -2573,7 +2573,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1519766304817-4f37bda74a27?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T13:48:00Z"
   },
@@ -2597,7 +2597,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1629897048514-3dd7414fe72a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T14:47:00Z"
   },
@@ -2621,7 +2621,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T13:46:00Z"
   },
@@ -2645,7 +2645,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T17:12:00Z"
   },
@@ -2669,7 +2669,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T11:40:00Z"
   },
@@ -2693,7 +2693,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558981285-6f0c68243d88?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T10:49:00Z"
   },
@@ -2717,7 +2717,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T14:11:00Z"
   },
@@ -2741,7 +2741,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1510672981848-a1c4f1cb5ccf?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T16:49:00Z"
   },
@@ -2765,7 +2765,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T12:14:00Z"
   },
@@ -2789,7 +2789,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T16:46:00Z"
   },
@@ -2813,7 +2813,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1519766304817-4f37bda74a27?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T14:59:00Z"
   },
@@ -2837,7 +2837,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T10:29:00Z"
   },
@@ -2861,7 +2861,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T14:20:00Z"
   },
@@ -2885,7 +2885,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1550345332-09e3ac987658?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T16:45:00Z"
   },
@@ -2909,7 +2909,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1517438322307-e67111335449?auto=format&fit=crop&w=600&q=80",
     specifications: {"Color": "Standard", "Type": "Heavy Duty / Durable"},
     created_at: "2026-06-21T11:53:00Z"
   },
@@ -2957,7 +2957,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T12:36:00Z"
   },
@@ -2981,7 +2981,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T15:13:00Z"
   },
@@ -3005,7 +3005,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T12:46:00Z"
   },
@@ -3029,7 +3029,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T12:18:00Z"
   },
@@ -3053,7 +3053,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1495640388908-05fa85288e61?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T12:57:00Z"
   },
@@ -3101,7 +3101,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T11:18:00Z"
   },
@@ -3125,7 +3125,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1476275466078-4007374efbbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T13:37:00Z"
   },
@@ -3149,7 +3149,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1551029506-0807df4e2031?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T11:15:00Z"
   },
@@ -3173,7 +3173,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T15:52:00Z"
   },
@@ -3221,7 +3221,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1476275466078-4007374efbbe?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T10:21:00Z"
   },
@@ -3245,7 +3245,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T11:57:00Z"
   },
@@ -3269,7 +3269,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1495640388908-05fa85288e61?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T10:53:00Z"
   },
@@ -3293,7 +3293,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1495640388908-05fa85288e61?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T14:12:00Z"
   },
@@ -3317,7 +3317,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1561089489-f13d5e730d72?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T16:21:00Z"
   },
@@ -3341,7 +3341,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1549241520-425e3dfc01cb?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T11:30:00Z"
   },
@@ -3365,7 +3365,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1476275466078-4007374efbbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T11:37:00Z"
   },
@@ -3389,7 +3389,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
     specifications: {"Format": "Paperback", "Publisher": "Bestseller Books"},
     created_at: "2026-06-21T13:59:00Z"
   },
@@ -3437,7 +3437,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:38:00Z"
   },
@@ -3461,7 +3461,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1580428180098-24b353d7e9d9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T11:51:00Z"
   },
@@ -3485,7 +3485,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1611195974226-a6a9be9dd763?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T15:48:00Z"
   },
@@ -3509,7 +3509,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T15:33:00Z"
   },
@@ -3533,7 +3533,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:31:00Z"
   },
@@ -3557,7 +3557,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1558877385-81a1c7e67d72?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T15:18:00Z"
   },
@@ -3581,7 +3581,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1620336655052-b57986f5a26a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T15:59:00Z"
   },
@@ -3605,7 +3605,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558877385-81a1c7e67d72?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:48:00Z"
   },
@@ -3629,7 +3629,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1515488042361-404e9250afef?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T17:24:00Z"
   },
@@ -3653,7 +3653,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:22:00Z"
   },
@@ -3677,7 +3677,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:27:00Z"
   },
@@ -3701,7 +3701,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1515488042361-404e9250afef?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T13:34:00Z"
   },
@@ -3725,7 +3725,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1611195974226-a6a9be9dd763?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:58:00Z"
   },
@@ -3749,7 +3749,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T14:25:00Z"
   },
@@ -3773,7 +3773,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:28:00Z"
   },
@@ -3797,7 +3797,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1558877385-81a1c7e67d72?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T16:40:00Z"
   },
@@ -3821,7 +3821,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T12:12:00Z"
   },
@@ -3845,7 +3845,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T10:28:00Z"
   },
@@ -3869,7 +3869,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1515488042361-404e9250afef?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1535223289429-462edb9dfe55?auto=format&fit=crop&w=600&q=80",
     specifications: {"Age Recommendation": "6+", "Material": "Non-toxic ABS Plastic"},
     created_at: "2026-06-21T14:32:00Z"
   },
@@ -3893,7 +3893,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T17:33:00Z"
   },
@@ -3917,7 +3917,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T15:52:00Z"
   },
@@ -3941,7 +3941,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T14:50:00Z"
   },
@@ -3965,7 +3965,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1562359468-e2c9aca39b2f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T10:18:00Z"
   },
@@ -3989,7 +3989,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T12:43:00Z"
   },
@@ -4013,7 +4013,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T17:23:00Z"
   },
@@ -4037,7 +4037,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1597737333932-d8a25d2b638d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1552176317-3e1fa0b01b47?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T15:55:00Z"
   },
@@ -4061,7 +4061,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T12:25:00Z"
   },
@@ -4085,7 +4085,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T16:59:00Z"
   },
@@ -4109,7 +4109,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1517524206127-48bbd363f3d7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T12:37:00Z"
   },
@@ -4157,7 +4157,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T15:46:00Z"
   },
@@ -4181,7 +4181,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558981285-6f0c68243d88?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T14:51:00Z"
   },
@@ -4205,7 +4205,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1517438322307-e67111335449?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T15:48:00Z"
   },
@@ -4229,7 +4229,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T17:25:00Z"
   },
@@ -4277,7 +4277,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1597737333932-d8a25d2b638d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T10:28:00Z"
   },
@@ -4301,7 +4301,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1562359468-e2c9aca39b2f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T15:12:00Z"
   },
@@ -4325,7 +4325,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T12:16:00Z"
   },
@@ -4349,7 +4349,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1517524206127-48bbd363f3d7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Compatibility": "Universal Fit", "Warranty": "2 Years"},
     created_at: "2026-06-21T17:43:00Z"
   },
@@ -4373,7 +4373,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T14:40:00Z"
   },
@@ -4397,7 +4397,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T10:47:00Z"
   },
@@ -4421,7 +4421,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1619283426998-7c6a56f5f28a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T15:36:00Z"
   },
@@ -4445,7 +4445,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1614961908959-17c7b7b2c5dd?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T17:43:00Z"
   },
@@ -4469,7 +4469,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1610397648930-471f61988542?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T17:22:00Z"
   },
@@ -4493,7 +4493,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1621932953986-15fcf084da0f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T14:17:00Z"
   },
@@ -4517,7 +4517,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T15:38:00Z"
   },
@@ -4541,7 +4541,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T10:52:00Z"
   },
@@ -4565,7 +4565,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1559799922-3e4e5e28fa74?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T16:51:00Z"
   },
@@ -4589,7 +4589,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1559622214-f8a98509db5b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T10:21:00Z"
   },
@@ -4613,7 +4613,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T10:29:00Z"
   },
@@ -4637,7 +4637,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1574570068036-6db0d02c80c9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T15:20:00Z"
   },
@@ -4661,7 +4661,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1574570068036-6db0d02c80c9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T16:42:00Z"
   },
@@ -4685,7 +4685,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1614961908959-17c7b7b2c5dd?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T14:47:00Z"
   },
@@ -4709,7 +4709,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1610397648930-471f61988542?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T11:50:00Z"
   },
@@ -4733,7 +4733,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1621932953986-15fcf084da0f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T13:58:00Z"
   },
@@ -4757,7 +4757,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1481391319762-47dff72954d9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T12:20:00Z"
   },
@@ -4781,7 +4781,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T17:46:00Z"
   },
@@ -4805,7 +4805,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1609549073924-60ea2af89044?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T11:44:00Z"
   },
@@ -4829,7 +4829,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1559622214-f8a98509db5b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weight": "Standard Pack", "Organic": "100% Certified"},
     created_at: "2026-06-21T15:34:00Z"
   },
@@ -4853,7 +4853,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1505797149-43b0069ec26b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T12:56:00Z"
   },
@@ -4901,7 +4901,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T11:48:00Z"
   },
@@ -4925,7 +4925,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1568832359672-e36cf5d74f54?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T12:42:00Z"
   },
@@ -4949,7 +4949,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1568832359672-e36cf5d74f54?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T16:29:00Z"
   },
@@ -4973,7 +4973,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1541187714594-731deadfbe4c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T15:54:00Z"
   },
@@ -4997,7 +4997,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1505797149-43b0069ec26b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T16:36:00Z"
   },
@@ -5021,7 +5021,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T14:34:00Z"
   },
@@ -5045,7 +5045,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1629752187687-3d3c7ea3a21b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T14:10:00Z"
   },
@@ -5069,7 +5069,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T16:39:00Z"
   },
@@ -5093,7 +5093,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1505797149-43b0069ec26b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1568667256549-094345857637?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T15:36:00Z"
   },
@@ -5117,7 +5117,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T16:46:00Z"
   },
@@ -5141,7 +5141,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1520116468816-95b69f847357?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T15:20:00Z"
   },
@@ -5189,7 +5189,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T17:11:00Z"
   },
@@ -5237,7 +5237,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T14:53:00Z"
   },
@@ -5261,7 +5261,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T15:46:00Z"
   },
@@ -5285,7 +5285,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T14:44:00Z"
   },
@@ -5309,7 +5309,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&w=600&q=80",
     specifications: {"Pack size": "1 Unit", "Type": "Professional Quality"},
     created_at: "2026-06-21T16:53:00Z"
   },
@@ -5381,7 +5381,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1514817819459-a8f6f2e28f97?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T16:30:00Z"
   },
@@ -5405,7 +5405,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1607619056574-7b8f304f3b6a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1620812042994-01e2fa82b97f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T11:32:00Z"
   },
@@ -5429,7 +5429,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T12:53:00Z"
   },
@@ -5453,7 +5453,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1608248597481-496100c8c836?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T17:48:00Z"
   },
@@ -5477,7 +5477,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1607619056574-7b8f304f3b6a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T14:30:00Z"
   },
@@ -5501,7 +5501,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T15:34:00Z"
   },
@@ -5525,7 +5525,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T13:38:00Z"
   },
@@ -5549,7 +5549,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1616679911721-fe6eec10fcd5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T11:38:00Z"
   },
@@ -5573,7 +5573,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1517438322307-e67111335449?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T11:59:00Z"
   },
@@ -5597,7 +5597,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T11:10:00Z"
   },
@@ -5621,7 +5621,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1531353826977-0941b4779a1c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T15:11:00Z"
   },
@@ -5645,7 +5645,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1607619056574-7b8f304f3b6a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T17:30:00Z"
   },
@@ -5669,7 +5669,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T15:45:00Z"
   },
@@ -5693,7 +5693,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1608248597481-496100c8c836?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T16:34:00Z"
   },
@@ -5717,7 +5717,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T17:43:00Z"
   },
@@ -5741,7 +5741,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1606206873764-fd15f1461fc1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T11:53:00Z"
   },
@@ -5765,7 +5765,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T12:45:00Z"
   },
@@ -5789,7 +5789,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1616679911721-fe6eec10fcd5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=600&q=80",
     specifications: {"Tested": "FDA Approved", "Safety": "Certified"},
     created_at: "2026-06-21T16:53:00Z"
   },
@@ -5813,7 +5813,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T12:59:00Z"
   },
@@ -5837,7 +5837,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1592754862816-15f1f0217c18?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T17:44:00Z"
   },
@@ -5861,7 +5861,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1602413290616-e5dd9ef58bcf?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1556228852-6d35a585d566?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T17:17:00Z"
   },
@@ -5885,7 +5885,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1608248597481-496100c8c836?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T15:44:00Z"
   },
@@ -5909,7 +5909,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T12:58:00Z"
   },
@@ -5933,7 +5933,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T17:19:00Z"
   },
@@ -5957,7 +5957,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1617648141223-b1d44c062758?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1592754862816-15f1f0217c18?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T17:41:00Z"
   },
@@ -6005,7 +6005,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1615787073600-7a9b5d06b225?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T17:11:00Z"
   },
@@ -6029,7 +6029,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1604917621956-10dfa7cce2e7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1617648141223-b1d44c062758?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T11:51:00Z"
   },
@@ -6053,7 +6053,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T17:14:00Z"
   },
@@ -6077,7 +6077,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1592754862816-15f1f0217c18?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T11:56:00Z"
   },
@@ -6101,7 +6101,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1602413290616-e5dd9ef58bcf?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T12:38:00Z"
   },
@@ -6125,7 +6125,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1604917621956-10dfa7cce2e7?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T15:37:00Z"
   },
@@ -6149,7 +6149,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T13:43:00Z"
   },
@@ -6173,7 +6173,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T10:33:00Z"
   },
@@ -6197,7 +6197,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1617648141223-b1d44c062758?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1515488042361-404e9250afef?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T14:23:00Z"
   },
@@ -6221,7 +6221,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1602413290616-e5dd9ef58bcf?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T14:15:00Z"
   },
@@ -6245,7 +6245,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T16:56:00Z"
   },
@@ -6269,7 +6269,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1604917621956-10dfa7cce2e7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Hypoallergenic": "Yes", "Material": "BPA-Free / Organic"},
     created_at: "2026-06-21T10:55:00Z"
   },
@@ -6437,7 +6437,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1525786210598-d9b0c35b349d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T11:23:00Z"
   },
@@ -6461,7 +6461,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1595069906974-f8ae7ffc3e6e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T17:57:00Z"
   },
@@ -6485,7 +6485,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1605020420620-20c943cc4669?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T16:54:00Z"
   },
@@ -6509,7 +6509,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T16:17:00Z"
   },
@@ -6533,7 +6533,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T13:30:00Z"
   },
@@ -6557,7 +6557,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1550985543-f47f38aeee65?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T13:16:00Z"
   },
@@ -6581,7 +6581,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T14:14:00Z"
   },
@@ -6605,7 +6605,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1566412174676-e17f54c15324?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1516827611523-3e4b01f72019?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T16:41:00Z"
   },
@@ -6629,7 +6629,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1612222869049-d8ec8527a067?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T17:36:00Z"
   },
@@ -6653,7 +6653,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1543443258-92b04ad5ecf1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T16:55:00Z"
   },
@@ -6677,7 +6677,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T10:40:00Z"
   },
@@ -6701,7 +6701,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1543443258-92b04ad5ecf1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T16:32:00Z"
   },
@@ -6725,7 +6725,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1618609378039-b572f64c5b42?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1566412174676-e17f54c15324?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T12:46:00Z"
   },
@@ -6749,7 +6749,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1543443258-92b04ad5ecf1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Body Material": "Polished Tonewood", "Level": "All Levels"},
     created_at: "2026-06-21T10:31:00Z"
   },
@@ -6821,7 +6821,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558904541-efa843a96f01?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T12:21:00Z"
   },
@@ -6845,7 +6845,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T11:41:00Z"
   },
@@ -6869,7 +6869,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1598902108854-10e335adac99?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1554487756-e4e2ce7d3aea?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T17:10:00Z"
   },
@@ -6917,7 +6917,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1605152276897-4f618f83196e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1617098900591-3f90928e8c54?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T15:26:00Z"
   },
@@ -6941,7 +6941,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1584483776269-e0921008cb0a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T10:37:00Z"
   },
@@ -6965,7 +6965,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T14:29:00Z"
   },
@@ -7013,7 +7013,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1573407007072-62aed9f3d1d7?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T12:33:00Z"
   },
@@ -7037,7 +7037,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1605152276897-4f618f83196e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T11:52:00Z"
   },
@@ -7061,7 +7061,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T13:40:00Z"
   },
@@ -7085,7 +7085,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1584483776269-e0921008cb0a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T13:22:00Z"
   },
@@ -7109,7 +7109,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1598902108854-10e335adac99?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T11:34:00Z"
   },
@@ -7133,7 +7133,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T16:19:00Z"
   },
@@ -7157,7 +7157,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1605152276897-4f618f83196e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T14:34:00Z"
   },
@@ -7181,7 +7181,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1584483776269-e0921008cb0a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1598902108854-10e335adac99?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T13:13:00Z"
   },
@@ -7205,7 +7205,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T13:18:00Z"
   },
@@ -7229,7 +7229,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1588694861340-b47ef012015f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Weather Resistant": "Yes", "Material": "Heavy Duty Steel/Plastic"},
     created_at: "2026-06-21T17:58:00Z"
   },
@@ -7253,7 +7253,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T12:22:00Z"
   },
@@ -7301,7 +7301,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1566454825481-9c31db11a10c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T14:11:00Z"
   },
@@ -7325,7 +7325,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1527853787696-f7be74f2e39a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T17:18:00Z"
   },
@@ -7349,7 +7349,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T15:39:00Z"
   },
@@ -7373,7 +7373,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1527853787696-f7be74f2e39a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T14:53:00Z"
   },
@@ -7397,7 +7397,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T10:48:00Z"
   },
@@ -7421,7 +7421,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T15:56:00Z"
   },
@@ -7445,7 +7445,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T11:40:00Z"
   },
@@ -7469,7 +7469,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1553531384-cc64ac80f931?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T15:33:00Z"
   },
@@ -7493,7 +7493,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T14:36:00Z"
   },
@@ -7517,7 +7517,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1553531384-cc64ac80f931?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T11:41:00Z"
   },
@@ -7541,7 +7541,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T12:49:00Z"
   },
@@ -7565,7 +7565,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1527853787696-f7be74f2e39a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1563209259-2a2d3f484a1e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T10:53:00Z"
   },
@@ -7589,7 +7589,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1512909006721-3d6018887383?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T14:39:00Z"
   },
@@ -7613,7 +7613,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T10:24:00Z"
   },
@@ -7637,7 +7637,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T10:48:00Z"
   },
@@ -7661,7 +7661,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1566454825481-9c31db11a10c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T13:54:00Z"
   },
@@ -7685,7 +7685,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1627123424574-724758594785?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T14:17:00Z"
   },
@@ -7709,7 +7709,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1586861635167-e5223aadc9fe?auto=format&fit=crop&w=600&q=80",
     specifications: {"Type": "Lightweight & Expandable", "Lock": "TSA Approved"},
     created_at: "2026-06-21T13:54:00Z"
   },
@@ -7757,7 +7757,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1541829019-2137004f85f9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T16:57:00Z"
   },
@@ -7805,7 +7805,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T11:18:00Z"
   },
@@ -7829,7 +7829,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T12:40:00Z"
   },
@@ -7853,7 +7853,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1552083152-5e6e2ec1a235?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T15:43:00Z"
   },
@@ -7877,7 +7877,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1552083152-5e6e2ec1a235?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T10:51:00Z"
   },
@@ -7901,7 +7901,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1584992236310-6edddc08535d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T16:35:00Z"
   },
@@ -7925,7 +7925,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1541829019-2137004f85f9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1584992236310-6edddc08535d?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T16:36:00Z"
   },
@@ -7949,7 +7949,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1604871000636-074fa5117945?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T15:13:00Z"
   },
@@ -7973,7 +7973,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T10:31:00Z"
   },
@@ -7997,7 +7997,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1578926375530-4543288d6f2e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T11:26:00Z"
   },
@@ -8021,7 +8021,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T17:39:00Z"
   },
@@ -8045,7 +8045,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T12:56:00Z"
   },
@@ -8069,7 +8069,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1604871000636-074fa5117945?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T15:28:00Z"
   },
@@ -8093,7 +8093,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1552083152-5e6e2ec1a235?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T13:23:00Z"
   },
@@ -8117,7 +8117,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T15:45:00Z"
   },
@@ -8141,7 +8141,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1584992236310-6edddc08535d?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T10:34:00Z"
   },
@@ -8165,7 +8165,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1541829019-2137004f85f9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T15:38:00Z"
   },
@@ -8189,7 +8189,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1604871000636-074fa5117945?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&q=80",
     specifications: {"Non-Toxic": "Yes", "Color Range": "Vibrant"},
     created_at: "2026-06-21T16:34:00Z"
   },
@@ -8213,7 +8213,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T15:58:00Z"
   },
@@ -8237,7 +8237,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1615087240969-eeff2fa558f2?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T16:12:00Z"
   },
@@ -8261,7 +8261,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T10:59:00Z"
   },
@@ -8285,7 +8285,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1615087240969-eeff2fa558f2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T11:42:00Z"
   },
@@ -8333,7 +8333,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1608454367599-c1139e559381?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T16:26:00Z"
   },
@@ -8357,7 +8357,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1615087240969-eeff2fa558f2?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T11:20:00Z"
   },
@@ -8381,7 +8381,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T16:51:00Z"
   },
@@ -8405,7 +8405,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1608454367599-c1139e559381?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T14:36:00Z"
   },
@@ -8429,7 +8429,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T11:32:00Z"
   },
@@ -8453,7 +8453,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T12:57:00Z"
   },
@@ -8477,7 +8477,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T12:17:00Z"
   },
@@ -8501,7 +8501,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T12:21:00Z"
   },
@@ -8525,7 +8525,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: false,
-    image_url: "https://images.unsplash.com/photo-1615087240969-eeff2fa558f2?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T11:28:00Z"
   },
@@ -8549,7 +8549,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1560807707-8cc77767d783?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T15:41:00Z"
   },
@@ -8573,7 +8573,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: true,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1608454367599-c1139e559381?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1615087240969-eeff2fa558f2?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T13:55:00Z"
   },
@@ -8597,7 +8597,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T12:51:00Z"
   },
@@ -8621,7 +8621,7 @@ export const mockProducts: Product[] = [
     is_trending: true,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T10:47:00Z"
   },
@@ -8669,7 +8669,7 @@ export const mockProducts: Product[] = [
     is_trending: false,
     is_sponsored: false,
     fast_delivery: true,
-    image_url: "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&w=600&q=80",
+    image_url: "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?auto=format&fit=crop&w=600&q=80",
     specifications: {"Suitability": "Dogs & Cats", "Material": "Eco-friendly / Safe"},
     created_at: "2026-06-21T12:38:00Z"
   }
