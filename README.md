@@ -15,13 +15,25 @@
 
 ## 📸 Screenshots Showcase
 
-Here is a visual overview of **7days Market** in action:
+Here is a visual walkthrough of the **7days Market** user experience:
 
-| 🏠 Homepage Banner & Slider | 📦 Product Categories Grid |
-| :---: | :---: |
-| ![Homepage Banner](screenshots/Screenshot%202026-06-21%20180719.png) | ![Categories Grid](screenshots/Screenshot%202026-06-21%20180745.png) |
-| **🔍 Search & Dropdown Navigation** | **🛍️ Category Filtering (Electronics)** |
-| ![Search Dropdown](screenshots/Screenshot%202026-06-21%20180752.png) | ![Electronics Page](screenshots/Screenshot%202026-06-21%20180801.png) |
+### 🏠 Search & Category Product Showcase
+![Search & Category Product Showcase](screenshots/Screenshot%202026-06-21%20180719.png)
+
+---
+
+### 🛒 Dynamic Shopping Cart
+![Dynamic Shopping Cart](screenshots/Screenshot%202026-06-21%20180745.png)
+
+---
+
+### 📍 Checkout - Shipping Details
+![Checkout - Shipping Details](screenshots/Screenshot%202026-06-21%20180752.png)
+
+---
+
+### 💳 Checkout - Payment Details
+![Checkout - Payment Details](screenshots/Screenshot%202026-06-21%20180801.png)
 
 ---
 
