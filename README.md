@@ -200,3 +200,5 @@ Here is a visual walkthrough of the **7days Market** user experience:
 <!-- update_jul13_batch 6 -->
 
 <!-- update_jul13_batch 7 -->
+
+<!-- update_jul13_batch 8 -->
