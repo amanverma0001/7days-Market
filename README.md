@@ -316,3 +316,5 @@ Here is a visual walkthrough of the **7days Market** user experience:
 <!-- update_jul12_batch 34 -->
 
 <!-- update_jul16_batch 1 -->
+
+<!-- update_jul16_batch 2 -->
