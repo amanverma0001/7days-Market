@@ -156,3 +156,5 @@ Here is a visual walkthrough of the **7days Market** user experience:
 <!-- update_7days 10 -->
 
 <!-- update_7days 11 -->
+
+<!-- update_7days 12 -->
