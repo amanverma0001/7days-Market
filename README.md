@@ -136,3 +136,5 @@ Here is a visual walkthrough of the **7days Market** user experience:
 *   **Sole Developer**: Amandeep ([@amanverma0001](https://github.com/amanverma0001))
 
 <!-- update_7days 1 -->
+
+<!-- update_7days 2 -->
